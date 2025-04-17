@@ -1,0 +1,39 @@
+dict
+Key - itemID
+ 
+Value - item.name
+value - item.price
+value - item.Quantity
+value - image
+value - model
+
+
+script1 container struct to store item data ? check how to do that
+
+Declare and assign the value to dict and list1
+
+Home Manager - > Script1 -> dict
+Home Manager - > Script1 -> list1 store itemID of all items 
+Home Manager - > Script1 -> list2 collection itemID of purchased items
+---------------------------------------------------------------------------------
+check how to assign the value to the components ?
+
+(script2) Shop Manager - > home Manager-> script1->dict & list1 show all items 
+(script2) Shop Manager -> home Manager - > script1 - > list2 update krnar
+---------------------------------------------------------------------------------
+check how to assign the value to the components?
+
+(script3)Collection Manager -> home Manger -> script1 -> dict & list2 show all items
+(script3)Collection Manager -> track selected item and set their info to any static script
+
+---check how to store value to the static script and retrive it from the next scene ?---------
+
+new Scene (get the info from static script and Load  the UI & resources)
+requirement - > 
+	1)Model
+	2)Quantity
+	3)Image
+	
+(Exit Button On gamaPlay to home)
+
+(Check Music is working or not)
