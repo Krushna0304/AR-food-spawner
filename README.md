@@ -23,7 +23,7 @@ An immersive Augmented Reality (AR) Android application developed using Unity. T
 
 ---
 
-## 📷 Screenshots
+## 📷 Demo Video
 
 *(Add screenshots or screen recordings here to show off the app!)*
 
@@ -32,7 +32,6 @@ An immersive Augmented Reality (AR) Android application developed using Unity. T
 ## 📦 Download the App
 
 👉 [**Download APK**](https://drive.google.com/file/d/1qi4ZblRVPUyHXo9DdxXONVd1G7SLI9Si/view?usp=drive_link)  
-*(Replace this link with your actual application link)*
 
 ---
 
